@@ -1,7 +1,7 @@
 {
     "name": "tailscale.com",
     "id": "tailscale.com",
-    "documentationURL": "https://github.com/sebst/devcontainer-features/tree/main/src/tailscale.com",
+    "documentationURL": "https://github.com/bascodes/devcontainer-features/tree/main/src/tailscale.com",
     "version": "1.0.0",
     "description": "Installs the cli for [tailscale](https://tailscale.com)",
     "installsAfter": [],

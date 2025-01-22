@@ -1,7 +1,7 @@
 {
     "name": "usbutils",
     "id": "usbutils",
-    "documentationURL": "https://github.com/sebst/devcontainer-features/tree/main/src/usbutils",
+    "documentationURL": "https://github.com/bascodes/devcontainer-features/tree/main/src/usbutils",
     "version": "1.0.0",
     "description": "Installs `usbutils`",
     "installsAfter": [],
