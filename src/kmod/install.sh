@@ -7,9 +7,9 @@ if test "n" = n; then
     umask 077
 fi
 
-CRCsum="1612591377"
-MD5="2a65511bd4e1f33deb597d67e5e688a2"
-SHA="276a6c2c214541489b9e4c2d259617cd4af6778bc02271bcf03100c944ff3ecf"
+CRCsum="54196053"
+MD5="a30ca39e62f97d0d6880dcea42d20410"
+SHA="192c09382afb0fc88612a52f401c1be51fb2ffa6f7b82bcbe4d466e0dd752eba"
 SIGNATURE=""
 TMPROOT=${TMPDIR:=/tmp}
 USER_PWD="$PWD"
@@ -376,14 +376,14 @@ do
 	if test x"n" != x""; then
 	    echo Encryption: n
 	fi
-	echo Date of packaging: Wed Jan 22 11:32:27 UTC 2025
+	echo Date of packaging: Wed Jan 22 11:45:03 UTC 2025
 	echo Built with Makeself version 2.5.0
 	echo Build command was: "./makeself-2.5.0/makeself.sh \\
     \"--gzip\" \\
     \"--current\" \\
     \"--nox11\" \\
     \"--sha256\" \\
-    \"/tmp/kmod.Ja680sAt6h/\" \\
+    \"/tmp/kmod.klS4WrRCpz/\" \\
     \"/home/runner/work/devcontainer-features/devcontainer-features/src/kmod/install.sh\" \\
     \"Devcontainer.com Feature: kmod\" \\
     \"./entrypoint.sh\""
@@ -716,5 +716,11 @@ if test x"$keep" = xn; then
     rm -rf "$tmpdir"
 fi
 eval $finish; exit $res
-‹ K×gí•_OÛ0ÀûìOq´D’†R*m€ÆJ‘xHe IÓT¹É•ZMíÈv:*¶ï¾sZXamCBòï¡‰ã;ßÿ:ŠQZ=/”62ãÚÿ ItÚm÷L:í¤Z'{{ÕÓÑJöjÉngw7i·ÚI«ÖLZ­N§ÍÚPË5¹¢K)Q?-—©tòÜþ+e}-.Ž‡BR#Ì ¼€!7cC©
-­F"Çê]§*@­ñFX÷ZˆG\äî]ª4WÃ!êÅ¢”-c˜ŽÔ8î]uÏÏ>žõúQ÷ü#¸¯õ_p‚Ü–ßÂdª²•'¨³4ƒÀÉ,Š…¤æ9u/«yþ‘(vi\ÉáËÏÿN³Õy<ÿmÚöóÿªçŸ‰|`£!2ËÍ B‰Ð„¯ïÀŽQ2 ª9ê©……)†Tà´R6‚Kƒ`ÊLmÓï6(<£á¿¼èõ+ ¬‚¹*5Wª\âHéê)ä5Le#ª/,»06Œ<ðkäÂØƒ Ú]ü³°uèæÈ%”ÓSõâ×q.†1/lìL¼Å-×he‘q‹Mv[rÿHÈìšð¾Q^sÊÍÍàAnîóô—QfHf`a&Š¢à^ðá„ój‡¢ûQE1Ætbœ?ËXpÊÎræ1N.WÆy0u²RY–:ÍÁVcî#[ƒ¬˜\Ch(Â÷Bœá,–ežÃÎá›äQ 3ô›ÛáüÎ|ÕlárjLÕtŠ2[XYêI(^8]æFÛ#E°þœ©õ¤¡;È9Ô.BR$¹bQóÔŠºFã3EíL“1-¬axS(mézûpzt68éÓ×;;> ½µÇýáLÝ9ø9I¶a”—7CuSUáêº*CÈ° °Q¦Í£*ÀÆíjËR2þºQIðX˜"çsW˜¢1tK¹…ý}èŸHck“&IâcôÁ_Çãñx<Çãñx<Çãñx<ÇóJø	|ÙU (  
+‹ ?Úgí•_OÛ0ÀûìOq´RD’(•6ŠÆ H<$:Ð¤iªÜäÚZMíÈv:*¶ï¾sZXamCBòï¡‰ã;ßÿ:ŠQZ=/”62ãÚÿ I´[-÷LÚ­¤Z'ûûÕÓ±›ì×’½öÞ^Òj5ÛíZ3ÙÝkî× Y{Jc¹&Wt)%ê§å2•NžÛ¥¬¯Å¥Ññ@Hj„„=p3†0”ªÐj(r¬Þu
+¡Ôo„u¯…(pÈEîÞ¥Js5 ^,JiÐ2†éXA½CÀI÷úøâüÓÑÙy÷2:¾øîký—œ"·¥Æ·0™ªleã	ê,Í p²‹b!©„yNÝËjž$Š]Wrøòó¿ÓÜm?žÿV»åçÿuÏ?CøÁÆ¦È ,„¡	_ß£d@Ts"Ô{©……)Tà´R6‚+ƒ`ÊLmÓï6(<£á¿êu/+ ¬‚¹*5œTª\àPéê)äˆ
+¦²Õ–]	
+Æ
+žNøû¹0¶T»‹¶Ç9r	eÁôB=„xÆuœ‹AÌ;o1F‹þm¿,2nq³Án«Sîâ
+™ýQ¾Ã7ÊkN¹é@Ðäæ>?Áå2
+ÒÉ,ÌDQÜ>Ü‚p^íPt?ª(Æ˜NŒóg«NÙYÎ<fÀÉÁåÊ8¦NV*ËR§Ù¿ÓÚlÀ}dk“„†"|À!ÄÎbYæ9ì¾Iò0C¿¹ÎïÌWÍ.¡ÆTM§(³…•Õ ž„â…³åan´­1R´ ëÏi‘ZWºƒœS@í"$e@’+5O­˜¡k4>SÔÎ4ÓÂ†7…Ò–®·gGçýÓKºãºç'Ò[Q{ÜÎÔƒŸ“d†yy3P7U®{p¬2„
+e*Ð<ªlÜ®¶,%ã¯•O„)r>wå)CÇ°”[88€îÅ)‰ln5h’$®1Füéñx<Çãñx<Çãñx<Çãñx<¯„ŸÔÂvÂ (  
